@@ -1,0 +1,48 @@
+Car name,Battery Capacity (kWh),Curb weight (lbs),Mile Range (miles),Car type
+BMW i3 2014,22,2635,81,subcompact  hatchback
+BMW i3 2017,33,2635,114,subcompact hatchback
+BMW Zinoro,17,1970,91,crossover
+BYD e6,61,4453,186,compact crossover
+Chery QQ3,9,2315,62,city car
+Chevrolet Bolt,60,3563,238,subcompact hatchback
+Chevrolet Spark,19,2989,82,hatchback
+Mitsubishi i-MiEV,16,2380,62,microvan hatchback
+Fiat 500e,24,2980,87,city car hatchback
+Ford Focus Electric,33.5,3640,115,compact hatchback
+Honda Fit EV,20,3252,81,subcompact hatchback
+Hyundai Ioniq,28,3164,124,compact hatchback
+Kia Soul EV,27,3289,93,"subcompact, crossover"
+Kyburz eRod,19.2,1323,137,sports car
+Lightning GT,44,4073,149,sports car
+Mahindra e2o,16,1830,75,city car
+Mercedes-Benz B-Class Electric Drive,28,3924,87,subcompact hatchback
+Nissan Leaf 2011/12,24,3354,73,compact hatchback
+Nissan Leaf 2013/15,24,3291,84,compact hatchback
+Nissan Leaf 2016,30,3391,107,compact hatchback
+Smart Fortwo electric drive,13.2,1808,68,city car hatchback
+Smart Fortwo electric drive 2nd gen,16.5,1808,84,city car hatchback
+Smart Fortwo electric drive 3rd gen,17.6,2017,90,city car hatchback
+Smart Fortwo electric drive 4th gen,17.6,2194,96,city car hatchback
+Tesla Model S 75D,75,4608,259,full-size liftback
+Tesla Model S 85D,85,4824,272,full-size liftback
+Tesla Model S 90D,90,4960,294,full-size liftback
+Tesla Model S 100D,100,4960,335,full-size liftback
+Texla Model X P90D,90,5381,250,full-size SUV
+Tesla Model 3 standard,50,3549,220,sedan fastback
+Tesla Model 3 Long-range,75,3814,310,sedan fastback
+Venturi Fetish,54,2701,211,sports car
+Concept One,90,4080,210,sports car
+Concept S,82,3970,216,sports car
+Exagon Furtive-eGT,53,3600,224,sports car
+Mitsubishi MiEV Evolution,35,2950,224,sports car
+NIO EP9,90,3825,265,sports car
+Kewet Buddy,14,2250,93,city car
+Bollore Bluecar,30,2359,129,city car
+Luka EV,22,1651,133,coupe
+volkswagen e-golf,26.5,2455,106,compact
+volkswagen e-up,18.7,2612,84,compact
+Sono Motors Sion,45,3086,144,hatchback
+Renault Fluence Z.E.,22,3402,75,compact sedan
+Renault Twizy,6.1,992,62,city car
+JAC J3 EV,19,2778,74,sedan
+JAC IEV6s,33,2888,119,sedan
